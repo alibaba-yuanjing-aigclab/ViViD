@@ -2,9 +2,9 @@ pretrained_base_model_path: "ckpts/sd-image-variations-diffusers"
 pretrained_vae_path: "ckpts/sd-vae-ft-mse"
 image_encoder_path: "ckpts/sd-image-variations-diffusers/image_encoder"
 
-denoising_unet_path: "ckpts/vivid/denoising_unet.pth"
-reference_unet_path: "ckpts/vivid/reference_unet.pth"
-pose_guider_path: "ckpts/vivid/pose_guider.pth"
+denoising_unet_path: "ckpts/ViViD/denoising_unet.pth"
+reference_unet_path: "ckpts/ViViD/reference_unet.pth"
+pose_guider_path: "ckpts/ViViD/pose_guider.pth"
 
 motion_module_path: "ckpts/MotionModule/mm_sd_v15_v2.ckpt"
 
