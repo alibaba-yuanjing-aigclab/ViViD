@@ -3,10 +3,9 @@ ViViD: Video Virtual Try-on using Diffusion Models
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.11794-b31b1b.svg)](https://arxiv.org/abs/2405.11794)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://alibaba-yuanjing-aigclab.github.io/ViViD)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/fangzx/ViViD)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/alibaba-yuanjing-aigclab/ViViD)
 
-## ❗️Note
-The weights are still under review by the company. They will be released soon after approval.
+
 
 
 ## Installation
