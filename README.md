@@ -15,7 +15,7 @@ git clone https://github.com/alibaba-yuanjing-aigclab/ViViD
 cd ViViD
 ```
 
-### Environtment
+### Environment
 ```
 conda create -n vivid python=3.10
 conda activate vivid
