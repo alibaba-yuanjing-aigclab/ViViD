@@ -6,7 +6,8 @@ ViViD: Video Virtual Try-on using Diffusion Models
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/alibaba-yuanjing-aigclab/ViViD)
 
 
-
+## Dataset
+Dataset released: [ViViD](https://huggingface.co/datasets/alibaba-yuanjing-aigclab/ViViD)
 
 ## Installation
 
