@@ -45,7 +45,7 @@ Download [mm_sd_v15_v2](https://huggingface.co/guoyww/animatediff/blob/main/mm_s
 #### ViViD
 ```
 git lfs install
-git clone git clone https://huggingface.co/alibaba-yuanjing-aigclab/ViViD
+git clone https://huggingface.co/alibaba-yuanjing-aigclab/ViViD
 ```
 ## Inference
 We provide two demos in ```./configs/prompts/```, run the following commands to have a try😼.
